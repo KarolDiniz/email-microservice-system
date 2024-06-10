@@ -52,8 +52,7 @@ Serviço de Email: O microserviço de email processa as mensagens recebidas e en
 Conteúdo do Email: Uma mensagem de boas-vindas personalizada é enviada para o endereço de email do usuário.
 
 
-![image](https://github.com/KarolDiniz/user-mail-microservices/assets/90431161/f736acd4-55c9-42d3-a2c0-473a505eb2dd)
-
+![image](https://github.com/KarolDiniz/email-microservice-system/assets/90431161/13c3ff3b-584b-4f39-b70d-6f193d32ace6)
 
 # Pré-requisitos
 
@@ -62,5 +61,5 @@ Spring Boot (versão 3.3.0 ou superior)
 RabbitMQ (para enfileiramento de mensagens)
 PostgreSQL (para banco de dados)
 Postman (para testes de API)
-Executando a Aplicação
+
 
